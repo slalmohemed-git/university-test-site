@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://slalmohemed-git.github.io/university-test-site/sitemap.xml
